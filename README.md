@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/26311126/README.md)
-# 🔍 Network Sniffer
+# 🔍 Packet Sniffer
 
 > A lightweight, real-time Python network packet sniffer for Windows — built for educational and diagnostic purposes.
 
